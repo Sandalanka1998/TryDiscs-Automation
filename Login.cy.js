@@ -1,4 +1,4 @@
-describe('Sign In', () => {
+describe('Sign In Automation', () => {
 
     before(() => {
       // Visit the website URL
